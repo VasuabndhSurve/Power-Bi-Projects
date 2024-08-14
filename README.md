@@ -6,3 +6,4 @@ This project involves analyzing the sales and inventory data of a fictional Choc
 Project Title: Human Resources Report Analysis Using Power BI
 
 Description: This project involves creating a comprehensive report in Power BI that analyzes key Human Resources metrics, specifically focusing on salary data and employee count across different departments and job roles. The report provides insights into salary distribution, average salary by department, and trends in workforce size over time. By leveraging Power BI's data visualization capabilities, the report offers an interactive and intuitive interface for HR professionals to make data-driven decisions, identify potential salary disparities, and optimize workforce planning.
+![humanss](https://github.com/user-attachments/assets/5b0017da-fe0c-406c-9a7c-a3633c82bb4d)
